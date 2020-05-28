@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[33],{418:function(e,n,t){e.exports=function(){"use strict";return{code:"is",week:{dow:1,doy:4},buttonText:{prev:"Fyrri",next:"Næsti",today:"Í dag",month:"Mánuður",week:"Vika",day:"Dagur",list:"Dagskrá"},weekLabel:"Vika",allDayHtml:"Allan<br/>daginn",eventLimitText:"meira",noEventsMessage:"Engir viðburðir til að sýna"}}()}}]);
+//# sourceMappingURL=calendar.33.b041d66a6a8709dee722.js.map
